@@ -1,6 +1,6 @@
 # O'Hara Information Gathering
 ## Descrição
-O projeto OHara é uma sequência de scripts em Bash desenvolvida para a fase de Information Gathering em vários ambientes. Ele visa facilitar a coleta de informações relevantes, fornecendo resultados de busca e verificação de informações por meio de várias fontes.
+O projeto O'Hara é uma sequência de scripts em Bash desenvolvida para a fase de Information Gathering em vários ambientes. Ele visa facilitar a coleta de informações relevantes, fornecendo resultados de busca e verificação de informações por meio de várias fontes.
 
 ## Instalação
 Clone este repositório em sua máquina local.
